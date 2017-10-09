@@ -1,3 +1,2 @@
 # Angular4-estudo
-curso angular4
-aa
+Desenvolvimento do curso angular 4
